@@ -1,10 +1,11 @@
------------------------
-# README
------------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
+# Abasiono Mbat's Portfolio Website
+
+This is my Portfolio Website - Using the free browny bootstrap resume template.
+v1.0 is out - Check it out [here:] (https://abasiono-mbat.netlify.app/)
+Watch out - There will be massive changes to this website in the future.
 
 
-Template Info:
+# Template Info:
 -----------------------
 Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
 Version: 	1.0
