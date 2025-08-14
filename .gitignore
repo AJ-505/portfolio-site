@@ -1,0 +1,29 @@
+# Dependencies
+node_modules
+
+# Next.js
+.next
+out
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Env
+.env.local
+.env.*.local
+
+# OS/Editor
+.DS_Store
+*.swp
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Misc
+.vercel
+dist
