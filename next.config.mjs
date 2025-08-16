@@ -3,7 +3,7 @@ const nextConfig = {
   experimental: {
     typedRoutes: true
   },
-  output: 'standalone'
+  distDir: 'dist',
 };
 
 export default nextConfig;
